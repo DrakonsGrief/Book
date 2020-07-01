@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang="en" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <title>my book</title>
-  </head>
-  <body>
-    <p style ="width: 500px; padding-left: 500px;">
+
 
                   Chapter One
 
@@ -36,7 +29,7 @@ He wistfully rubbed the neon green highlights these shoes had been a gift from h
  he jogged out to the crater and slid down the lip of the massive hole.
 In the middle on a raised platform of earth as if on an alter stood a small ball of metal
 It shimmered in the moonlight he slid a little closer to the orb. As he gaze at it his foot caught a raised piece of earth causing him to stumble he reached out to catch himself and his hand fell on the glistening orb  he tried to alter the path of his hand but it was too late his hand seemed to pass straight through it suddenly a strange sensation filled his hand it felt like cold water that tingled and snapped. he gasped as the ball disappeared seemingly melting into his hand he screamed as he felt the icy feeling rush up his arm, he felt his vision going and then a voice like his fathers “I’m coming pierce!”
-but it was too late he had already drifted from conscience.<br>
+but it was too late he had already drifted from conscience.
 
 
 
@@ -63,7 +56,5 @@ Keefe chuckled again “the first period teacher was freaking out he almost call
 His computer teacher looked up from his screen and raised an eyebrow “you’re first tardy as of yet” Kent looked down and shrugged “hospital” “ah the meteor shower” his teacher said surprised “sorta” Kent said “ok class that’s enough excitement for one day” the class and all turned their heads up from their screens, well all except for one, Keefe’s friend he was deep in his coding he like Keefe had been born with an amazing gift with computers though Keefe’s was more along the engineering area and not computers they had built a working Exoskeleton that Keefe had driven one day to school to the dismay of all, but their computer teacher Tadashi who insisted it was the coolest thing he had ever seen, he in fact had built a robot that was made for health care  and took great pride in it. Kent walked to his seat the on across from Keefe’s friend Dexter called Dex by his friends he also dabbled in alchemy he looked up as Kent passed him Kent jumped startled his eyes had changed too his brown eyes had morphed until they almost looked like mini circuit boards each with his pupil wich had shrunk and changed red Kent was about to question him again when he noticed that they would every few seconds shift from red to black like small blinking lights. As Kent logged into his computer, he noticed he had an email from Dex saying that he had not touched a meteorite but had just been in the vicinity the government had blocked off the area and told him to go home .when he got home he noticed his eyes had changed and as he logged on to his computer to work on the game he had been programing his hands had started to fly across the keyboards as the code just came to him as he thought of what he wanted it to do. Kent looked up startled and saw Dex nod once
 Then looking back to his screen, he noticed he had gotten an email from his teacher he opened it up and read with amazement, Leave the classroom! take Dex and Keefe if he’s still outside and go to our secret camp a small bunker underground. the government just arrested to kids who were reported with eyes changed like that. he and his friend had found and cleaned up wired electricity through and added stuff like government upgraded 3-D printers and other cool gizmos Kent looked at Dex but he had already packed up his laptop and was heading out the door Kent grabbed his stuff and followed after him it looked like Keefe had already left Kent started running down the path through the forest that was just on the other side of the school veering left off the path he ran through the low undergrowth ducking under the occasional low hanging branch turning left he came upon a giant lake turning he noticed that  Dex had surprisingly followed him without making a sound Dex pulled out a small Joycon  he pressed in a code with a sudden rush a path appeared leading to the middle of the lake made of steel a small circular tube peeked up out of the middle of the lake Kent and Dex ran across the steel beams and crawled down the ladder of the tube as they came down the ladder the top of the tube closed and started to submerse they noticed that the lights were on and saw Keefe sitting in the main gaming chair engaged in a game of bed wars. “hey guys, a little slow” he laughed turning back to his game and putting his headset back on he was a longtime player and ranked among the best in most pvp mini games. Kent and Dex sighed “we thought you had gotten taken” they said.  Keefe grinned “no but I saw some other kids getting led into a swat truck” “really?” Kent said in disbelief “yup” Keefe returned “I turned off as soon as I saw them and came here”
 Kent sighed “Mr. Tadashi said he would follow us” Dex said “we’re his last class so he should be here soon” Kent walked into the other room and looked up the news on his laptop there he read “breaking news, several people have been infected by the meteors the are highly dangerous and should be reported immediately they are mentally unstable”   Kent looked up he noticed Keefe was starting to walk around in circles “Keefe” Kent said “are you okay” Keefe snarled and lunged at Kent. Startled Kent dived to the side, only to notice Dex and Keefe rolling on the ground holding their sides and laughing “y-you should h-have seen the lo-ook on your face” Keefe gasped Kent sighed and shook his head “really guys” he muttered they all turned around as they heard the sound of the top hatch opening “it’s me guys”
-</p>
-  </body>
-</html>
+
 © 2020 GitHub, Inc.
